@@ -8,3 +8,7 @@ Using TFGAN framework to play around with GAN architecture for image compression
 [Google Research Blog](https://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html)
 
 [Code and examples from Tensorflow github](https://github.com/tensorflow/models/tree/master/research/gan)
+
+## UPDATES
+
+Added files from original tensorflow repos (research/compression and research/gan/image_compression )
